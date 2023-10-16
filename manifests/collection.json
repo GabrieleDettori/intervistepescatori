@@ -1,0 +1,33 @@
+{
+  "id" : "https://GabrieleDettori.github.io/provaprova/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in GabrieleDettori/provaprova project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GabrieleDettori.github.io/provaprova/manifests/manifest.json",
+    "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GabrieleDettori.github.io/provaprova/manifests/manifest-2.json",
+    "label" : "intervistepescatori"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GabrieleDettori.github.io/provaprova/manifests/manifest-cantalopue.json",
+    "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GabrieleDettori.github.io/provaprova/manifests/online-manifest.json",
+    "label" : "Manifest-interviste-pescatori-0001-0026"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GabrieleDettori.github.io/provaprova/manifests/onlinemanifest.json",
+    "label" : "Manifest-interviste-pescatori-0001-0026"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GabrieleDettori.github.io/provaprova/manifests/manifestcantalopue.json",
+    "label" : "[Click to edit label]"
+  } ]
+}

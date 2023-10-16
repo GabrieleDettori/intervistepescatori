@@ -1,0 +1,798 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://GabrieleDettori.github.io/provaprova/manifestlast.json",
+  "@type" : "sc:Manifest",
+  "label" : "Manifest-interviste-pescatori-0001-0026",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Manifest-interviste-pescatori-0001-0026",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://9fc28e7c-694e-43b2-bffe-4f15b6ead432",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d9addcd1-ec50-4ad8-b39a-d2ae3f788870",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5436,
+      "width" : 4200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e8490684-94dd-4972-a35a-8d5672ae71c0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gabrieledettori.github.io/provaprova/Savi-ed-esecutori-alle-acque-filza-123_0027_013-v.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://gabrieledettori.github.io/provaprova/info.json",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 22831200,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5436,
+          "width" : 4200
+        },
+        "on" : "http://d9addcd1-ec50-4ad8-b39a-d2ae3f788870"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ffeec9fb-1e6e-4a1f-be36-6cdfefb348b9",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4986,
+      "width" : 3428,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f75c4d91-bbeb-4ab6-854d-67553e135de3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0002_001-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0002_001-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 17092008,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4986,
+          "width" : 3428
+        },
+        "on" : "http://ffeec9fb-1e6e-4a1f-be36-6cdfefb348b9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a71f8e69-e400-4e4b-8a62-ba8388cbf5d7",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4879,
+      "width" : 3446,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://12f62e30-5271-4a25-914b-511e6fabd09f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0003_001-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0003_001-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 16813034,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4879,
+          "width" : 3446
+        },
+        "on" : "http://a71f8e69-e400-4e4b-8a62-ba8388cbf5d7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://12f5b5fc-ea2a-4584-8e7e-c5426084586a",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4879,
+      "width" : 3501,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8b6ace66-7bb7-4aae-81a1-a4bb87da2e3f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0004_002-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0004_002-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 17081379,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4879,
+          "width" : 3501
+        },
+        "on" : "http://12f5b5fc-ea2a-4584-8e7e-c5426084586a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4ae3766e-9a82-4f3b-9ade-f7f7fb18308e",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4879,
+      "width" : 3464,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d34364de-4af7-42a1-ae59-d8df10281fa9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0005_002-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0005_002-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 16900856,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4879,
+          "width" : 3464
+        },
+        "on" : "http://4ae3766e-9a82-4f3b-9ade-f7f7fb18308e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4a3cdde8-9199-49fa-8e0b-6efb572cfba6",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4879,
+      "width" : 3397,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9d286707-6691-4efc-b1f2-426c3fdc2d31",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0006_003-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0006_003-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 16573963,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4879,
+          "width" : 3397
+        },
+        "on" : "http://4a3cdde8-9199-49fa-8e0b-6efb572cfba6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b51eee61-ef29-41d3-9d94-85eb92eb38f2",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4879,
+      "width" : 3432,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4fc3b080-602c-42d7-bc72-768d00473a1a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0007_003-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0007_003-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 16744728,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4879,
+          "width" : 3432
+        },
+        "on" : "http://b51eee61-ef29-41d3-9d94-85eb92eb38f2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9b37c46f-06b9-42bc-86a9-f65386740a87",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4879,
+      "width" : 3429,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://21f508b4-42b8-4247-97b9-07108beea210",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0008_004-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0008_004-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 16730091,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4879,
+          "width" : 3429
+        },
+        "on" : "http://9b37c46f-06b9-42bc-86a9-f65386740a87"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://94f36dd8-fe78-4beb-8902-2b1752602549",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5064,
+      "width" : 3513,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://142e8bbe-bc51-4123-88d4-b51f62d8ed42",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0009_004-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0009_004-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 17789832,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5064,
+          "width" : 3513
+        },
+        "on" : "http://94f36dd8-fe78-4beb-8902-2b1752602549"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4edf59f5-272a-45ec-8f1d-9185fb52e1f9",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5179,
+      "width" : 3705,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c6530588-45f0-43c8-b25e-5551fbec6e18",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0011_005-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0011_005-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19188195,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5179,
+          "width" : 3705
+        },
+        "on" : "http://4edf59f5-272a-45ec-8f1d-9185fb52e1f9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://241ddc09-2bed-46ea-a198-7f584d74d456",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5179,
+      "width" : 3807,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e7613922-1af7-444e-b258-9417340a2ff4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0012_006-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0012_006-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19716453,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5179,
+          "width" : 3807
+        },
+        "on" : "http://241ddc09-2bed-46ea-a198-7f584d74d456"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c0782b45-b6f6-487c-8742-1c4f9ced69c2",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5157,
+      "width" : 3690,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://01aaad77-7e9a-4d99-ae39-6890c9cf1752",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0013_006-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0013_006-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19029330,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5157,
+          "width" : 3690
+        },
+        "on" : "http://c0782b45-b6f6-487c-8742-1c4f9ced69c2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c2a0cb25-ad0a-4ee7-961e-13f04a3868fd",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5157,
+      "width" : 3657,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1dda2db2-bae2-44ec-bcf9-299ecc4e49b0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0014_007-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0014_007-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 18859149,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5157,
+          "width" : 3657
+        },
+        "on" : "http://c2a0cb25-ad0a-4ee7-961e-13f04a3868fd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3ff55a52-2ad0-430c-9284-ebfeaf716dfe",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5157,
+      "width" : 3572,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://63e9a3c8-362b-4d3e-a50a-4f75d69b41fd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0015_007-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0015_007-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 18420804,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5157,
+          "width" : 3572
+        },
+        "on" : "http://3ff55a52-2ad0-430c-9284-ebfeaf716dfe"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0fda87c0-ba58-40a0-9acb-b941f9e8086f",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5157,
+      "width" : 3775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f53af091-b18a-41bc-bf72-fce59fd00414",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0016_008-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0016_008-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19467675,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5157,
+          "width" : 3775
+        },
+        "on" : "http://0fda87c0-ba58-40a0-9acb-b941f9e8086f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://466beadd-c05c-4cb8-8000-7a7de95df3a2",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5157,
+      "width" : 3578,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://31eb0d21-acad-473e-abf2-7b8dda01dce0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0017_008-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0017_008-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 18451746,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5157,
+          "width" : 3578
+        },
+        "on" : "http://466beadd-c05c-4cb8-8000-7a7de95df3a2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ce094ef7-31a8-492b-8883-0a856cda172e",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5157,
+      "width" : 3769,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://58c564d3-99fb-409b-95a6-c97526bc14c3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0018_009-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0018_009-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19436733,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5157,
+          "width" : 3769
+        },
+        "on" : "http://ce094ef7-31a8-492b-8883-0a856cda172e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5db7f89e-9396-45fd-9768-c3e89e511aae",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5157,
+      "width" : 3676,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6d6b857d-1ab6-49e1-875e-6f96be3f85b0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0019_009-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0019_009-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 18957132,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5157,
+          "width" : 3676
+        },
+        "on" : "http://5db7f89e-9396-45fd-9768-c3e89e511aae"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://570998e2-b50f-45f2-aaf8-a6fd8166c122",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5157,
+      "width" : 3671,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9e727c5f-54de-41a5-8863-bb7f72f7c6eb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0020_010-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0020_010-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 18931347,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5157,
+          "width" : 3671
+        },
+        "on" : "http://570998e2-b50f-45f2-aaf8-a6fd8166c122"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://eb458d7c-928c-432c-a829-22565ce81c81",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5185,
+      "width" : 3641,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7e94c5c2-89a0-4397-8a26-6dfd2556b7cf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0021_010-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0021_010-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 18878585,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5185,
+          "width" : 3641
+        },
+        "on" : "http://eb458d7c-928c-432c-a829-22565ce81c81"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://44dfc8be-608b-49c4-8f7f-7d99432ef6b8",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5185,
+      "width" : 3749,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f3333350-370e-48f6-875a-0e8726c2ec3d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0022_011-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0022_011-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19438565,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5185,
+          "width" : 3749
+        },
+        "on" : "http://44dfc8be-608b-49c4-8f7f-7d99432ef6b8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3cfb67f0-c778-4015-8082-ae817d51a3ef",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5221,
+      "width" : 3708,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://906139b7-6ae9-4fe9-be0e-40dcbce5e1f8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0023_011-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0023_011-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19359468,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5221,
+          "width" : 3708
+        },
+        "on" : "http://3cfb67f0-c778-4015-8082-ae817d51a3ef"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://40c63db3-69d4-42e8-84d4-550130bc027d",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5221,
+      "width" : 3753,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d23607bc-3201-432f-9a4c-bae34d9ce3cf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0024_012-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0024_012-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19594413,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5221,
+          "width" : 3753
+        },
+        "on" : "http://40c63db3-69d4-42e8-84d4-550130bc027d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fddeb61a-e496-4925-ad89-18b5da57c12a",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5221,
+      "width" : 3724,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2f486486-103d-4bca-baf5-323f467cbd8f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0025_012-v.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0025_012-v.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19443004,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5221,
+          "width" : 3724
+        },
+        "on" : "http://fddeb61a-e496-4925-ad89-18b5da57c12a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fd030665-1724-4a59-89e3-5426a7eee241",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5221,
+      "width" : 3737,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://54c93e9b-e434-46a2-93d6-0811a509d493",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0026_013-r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/Savi-ed-esecutori-alle-acque-filza-123_0026_013-r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19510877,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5221,
+          "width" : 3737
+        },
+        "on" : "http://fd030665-1724-4a59-89e3-5426a7eee241"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

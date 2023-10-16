@@ -1,0 +1,51 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://GabrieleDettori.github.io/provaprova/manifests/onlinemanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Manifest-interviste-pescatori-0001-0026",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Manifest-interviste-pescatori-0001-0026",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://9fc28e7c-694e-43b2-bffe-4f15b6ead432",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d9addcd1-ec50-4ad8-b39a-d2ae3f788870",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5436,
+      "width" : 4200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e8490684-94dd-4972-a35a-8d5672ae71c0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://firebasestorage.googleapis.com/v0/b/testhtml-7e365.appspot.com/o/Savi-ed-esecutori-alle-acque-filza-123_0001_coperta.jpg?alt=media&token=e14d2877-63d8-4650-8fd8-a863f88a55e3",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://firebasestorage.googleapis.com/v0/b/testhtml-7e365.appspot.com/o/Savi-ed-esecutori-alle-acque-filza-123_0001_coperta.jpg?alt=media&token=e14d2877-63d8-4650-8fd8-a863f88a55e3",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 22831200,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5436,
+          "width" : 4200
+        },
+        "on" : "http://d9addcd1-ec50-4ad8-b39a-d2ae3f788870"
+      } ],
+      "related" : ""
+    }
