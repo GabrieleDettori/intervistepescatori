@@ -1,0 +1,1538 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://6e410bb3-7d31-4fd7-a669-6d8d61c89cf3",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://88f96861-8a22-43e1-b119-abf4ece01234",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://815ea3d0-06a5-4717-b90b-7c43f6c1f44b",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5436,
+					"width": 4200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://dfe802e5-632c-422f-8990-e6a7a2d1a2f8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0001_coperta/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0001_coperta",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5436,
+								"width": 4200
+							},
+							"on": "http://815ea3d0-06a5-4717-b90b-7c43f6c1f44b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://701b6fda-e4bb-473e-9ecb-24c2898e16ec",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4986,
+					"width": 3428,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1768ab9b-1ca4-4926-b8ec-94ee30ae8e1e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0002_001-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0002_001-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4986,
+								"width": 3428
+							},
+							"on": "http://701b6fda-e4bb-473e-9ecb-24c2898e16ec"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cc8c86a4-284f-4b65-bb5f-311e594e56ef",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4879,
+					"width": 3446,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e78431e3-b125-4422-84a4-ffc6ce3efd05",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0003_001-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0003_001-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4879,
+								"width": 3446
+							},
+							"on": "http://cc8c86a4-284f-4b65-bb5f-311e594e56ef"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://2e8eadb1-0321-469a-baa5-3b2a4e8e56dc",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4879,
+					"width": 3501,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d0b94057-17c8-4643-a781-a273d8e90ac8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0004_002-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0004_002-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4879,
+								"width": 3501
+							},
+							"on": "http://2e8eadb1-0321-469a-baa5-3b2a4e8e56dc"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://242c4900-1274-4abc-9894-bec4cfa640d3",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4879,
+					"width": 3464,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b91d8fcf-be5f-4978-8e25-acb8c38666a7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0005_002-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0005_002-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4879,
+								"width": 3464
+							},
+							"on": "http://242c4900-1274-4abc-9894-bec4cfa640d3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://42968560-3f4b-49fa-a048-1377f5a5082b",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4879,
+					"width": 3397,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e5ddc104-c407-4fe7-b412-ed79d6335a75",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0006_003-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0006_003-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4879,
+								"width": 3397
+							},
+							"on": "http://42968560-3f4b-49fa-a048-1377f5a5082b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://407d6421-d33d-46dc-8496-40a47c15bc50",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4879,
+					"width": 3432,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3dabb496-93d1-482c-9146-33adddf78d0e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0007_003-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0007_003-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4879,
+								"width": 3432
+							},
+							"on": "http://407d6421-d33d-46dc-8496-40a47c15bc50"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://eb5281a0-6e19-443d-9531-0245083705e7",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4879,
+					"width": 3429,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a8f51bbb-c63c-4bfa-bb7e-141b0534094b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0008_004-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0008_004-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4879,
+								"width": 3429
+							},
+							"on": "http://eb5281a0-6e19-443d-9531-0245083705e7"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b5a19367-6d4b-43c1-9633-15551b9c9de9",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5064,
+					"width": 3513,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://396b2965-b9b7-4032-a3c8-e674e6a88733",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0009_004-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0009_004-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5064,
+								"width": 3513
+							},
+							"on": "http://b5a19367-6d4b-43c1-9633-15551b9c9de9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://23139c54-a7da-4c22-947f-3300c27d8eab",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5064,
+					"width": 3741,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://54c86a89-4a72-458f-acde-cb5203b0cf31",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0010_005-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0010_005-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5064,
+								"width": 3741
+							},
+							"on": "http://23139c54-a7da-4c22-947f-3300c27d8eab"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://0d765659-0345-4a30-862f-8046db49dbb0",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5179,
+					"width": 3705,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f71f717a-7f1b-489c-bc6a-9e7037042a8a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0011_005-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0011_005-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5179,
+								"width": 3705
+							},
+							"on": "http://0d765659-0345-4a30-862f-8046db49dbb0"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://32d16ee5-bcdd-42f6-b1f9-a86939e0916f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5179,
+					"width": 3807,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f544c5a0-0f4c-4fb6-8745-94a378c4c91a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0012_006-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0012_006-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5179,
+								"width": 3807
+							},
+							"on": "http://32d16ee5-bcdd-42f6-b1f9-a86939e0916f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://339b470c-2f70-4a05-a835-d9e0aad78721",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5157,
+					"width": 3690,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5d6b0e3f-631c-4bd4-be18-e54732d4e874",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0013_006-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0013_006-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5157,
+								"width": 3690
+							},
+							"on": "http://339b470c-2f70-4a05-a835-d9e0aad78721"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://54930997-04c5-4f13-88ad-5c8e0b31fd45",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5157,
+					"width": 3657,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fc055697-a8f4-4b81-9894-0afa5c43eafd",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0014_007-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0014_007-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5157,
+								"width": 3657
+							},
+							"on": "http://54930997-04c5-4f13-88ad-5c8e0b31fd45"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://52d5e7dd-96bd-41e5-abdd-84cf123f379a",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5157,
+					"width": 3572,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://045bf4c4-bd44-42f1-b4d9-1a349f35adec",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0015_007-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0015_007-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5157,
+								"width": 3572
+							},
+							"on": "http://52d5e7dd-96bd-41e5-abdd-84cf123f379a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://833581cd-a2b3-4a3b-b2d3-8328f60f9afe",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5157,
+					"width": 3775,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://63f023d6-595e-492d-91c8-eb8d46098475",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0016_008-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0016_008-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5157,
+								"width": 3775
+							},
+							"on": "http://833581cd-a2b3-4a3b-b2d3-8328f60f9afe"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://33c2cbae-1dcd-479e-a8dc-877260b1a4e4",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5157,
+					"width": 3578,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d3de3c94-0828-4022-93e6-b00a07bfde96",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0017_008-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0017_008-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5157,
+								"width": 3578
+							},
+							"on": "http://33c2cbae-1dcd-479e-a8dc-877260b1a4e4"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fd793cc4-4f96-46ae-97c7-938190247a52",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5157,
+					"width": 3769,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cbc135b8-d84e-4caf-a2c3-08e3e25c4cda",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0018_009-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0018_009-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5157,
+								"width": 3769
+							},
+							"on": "http://fd793cc4-4f96-46ae-97c7-938190247a52"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://560db979-660c-44c3-a623-385eb6ff2e68",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5157,
+					"width": 3676,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0ba874e7-102a-46f7-b71b-54e2c5ddf8db",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0019_009-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0019_009-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5157,
+								"width": 3676
+							},
+							"on": "http://560db979-660c-44c3-a623-385eb6ff2e68"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://baaca834-d3b5-4a18-b192-6c2727a0cd16",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5157,
+					"width": 3671,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://eb7efe8c-1204-4a4c-9ebd-f118d3a61aea",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0020_010-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0020_010-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5157,
+								"width": 3671
+							},
+							"on": "http://baaca834-d3b5-4a18-b192-6c2727a0cd16"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://14cc7f78-ee29-479a-9819-a9b9e9a85545",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5185,
+					"width": 3641,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://74a6ae05-45f0-4122-b4fd-d748695a58b2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0021_010-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0021_010-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5185,
+								"width": 3641
+							},
+							"on": "http://14cc7f78-ee29-479a-9819-a9b9e9a85545"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://65dd7c33-8c55-4bcb-bf15-de3ddd5cbe04",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5185,
+					"width": 3749,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8331341b-462c-46dc-921b-af83d6d9dcbb",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0022_011-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0022_011-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5185,
+								"width": 3749
+							},
+							"on": "http://65dd7c33-8c55-4bcb-bf15-de3ddd5cbe04"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cac4893a-1913-4c56-9ef3-66d8a680edbc",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3708,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://23c860b7-25d5-4d02-b2a5-b6d37cbb1133",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0023_011-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0023_011-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3708
+							},
+							"on": "http://cac4893a-1913-4c56-9ef3-66d8a680edbc"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://c3a5a6c7-f2c0-4e64-a388-e3a86fda2ab8",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3753,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://81453798-8267-4377-b7b2-7b073051dd91",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0024_012-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0024_012-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3753
+							},
+							"on": "http://c3a5a6c7-f2c0-4e64-a388-e3a86fda2ab8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://99a4b868-5d67-4ee4-9e91-7e7fd73a79f7",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3724,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://59bf9540-c317-472d-841d-19fb3c984614",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0025_012-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0025_012-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3724
+							},
+							"on": "http://99a4b868-5d67-4ee4-9e91-7e7fd73a79f7"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://10da4b99-7cdf-4920-ba98-ee207c3edf4c",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3737,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://93215fea-cc43-46ce-8c41-af282aa115cf",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0026_013-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0026_013-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3737
+							},
+							"on": "http://10da4b99-7cdf-4920-ba98-ee207c3edf4c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d52f4ff2-fd00-4f13-a67d-128fd07ed58e",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3749,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c4ec44ea-3c8f-422e-a126-2d34d6935034",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0028_014-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0028_014-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3749
+							},
+							"on": "http://d52f4ff2-fd00-4f13-a67d-128fd07ed58e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9a8dbc09-f92d-4344-98d7-f4137eff3105",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3704,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c401ecbb-06c7-4777-a94f-6839de608899",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0029_014-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0029_014-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3704
+							},
+							"on": "http://9a8dbc09-f92d-4344-98d7-f4137eff3105"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://78a3bba9-175c-4547-a088-fc5f057ef566",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3757,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8fbb81dd-1028-434f-b4c0-7d8fdcc40647",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0030_015-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0030_015-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3757
+							},
+							"on": "http://78a3bba9-175c-4547-a088-fc5f057ef566"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://3dd23fbb-54f3-444c-b64c-30fabbd02226",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3700,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4fbfb4e7-df91-43ff-9703-da0436fc0f30",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0031_015-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0031_015-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3700
+							},
+							"on": "http://3dd23fbb-54f3-444c-b64c-30fabbd02226"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://e61dcd1a-3c4f-4531-9509-6f7bdced9be0",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3761,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a9ec295f-1674-4139-bb57-08da28c89a1c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0032_016-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0032_016-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3761
+							},
+							"on": "http://e61dcd1a-3c4f-4531-9509-6f7bdced9be0"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://aa114111-913f-4ea7-9ae4-3be45a230a95",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3694,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3ae18ead-4cb0-4b73-9a7e-7f036b5de35a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0033_016-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0033_016-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3694
+							},
+							"on": "http://aa114111-913f-4ea7-9ae4-3be45a230a95"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ebece9c7-89d1-4a36-86f5-4a924729351d",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3767,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://619bdbff-3687-440c-86c4-e701f3487f54",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0034_017-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0034_017-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3767
+							},
+							"on": "http://ebece9c7-89d1-4a36-86f5-4a924729351d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://abca4768-4c83-4428-b755-e897d1240ff9",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3755,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://addeff22-7d01-4839-ac96-b0ba55c05d2b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0035_017-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0035_017-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3755
+							},
+							"on": "http://abca4768-4c83-4428-b755-e897d1240ff9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5fa02e0a-4e3c-4961-9417-75defd379924",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3763,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f4bb8d7e-0031-490a-bde8-c90d556c6022",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0036_018-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0036_018-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3763
+							},
+							"on": "http://5fa02e0a-4e3c-4961-9417-75defd379924"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5761936e-681f-4367-8827-11a7ceef66a5",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3758,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f255b195-8cb8-4708-865e-ced8440ad09a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0037_018-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0037_018-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3758
+							},
+							"on": "http://5761936e-681f-4367-8827-11a7ceef66a5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://0df78e5b-e89e-41dc-a047-8e2e7a0498a3",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3760,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://60bfc609-a7ce-469d-86ba-53929477317c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0038_019-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0038_019-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3760
+							},
+							"on": "http://0df78e5b-e89e-41dc-a047-8e2e7a0498a3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://02be4537-524c-4a24-8c30-3ae624b2811f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3752,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://be61074c-a964-46d8-ba77-602f8ce741b8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0039_019-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0039_019-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3752
+							},
+							"on": "http://02be4537-524c-4a24-8c30-3ae624b2811f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ab433f6f-d29e-4b2e-a9d8-47a4df3a1e99",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3766,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e3c10ccc-593e-4a46-b137-98d77861ac0c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0040_020-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0040_020-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3766
+							},
+							"on": "http://ab433f6f-d29e-4b2e-a9d8-47a4df3a1e99"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f7fae1e9-f90a-473a-a8b3-332d9b127d91",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3756,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://70828f68-496d-4ae5-a05c-ddc3809bccc7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0041_020-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0041_020-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3756
+							},
+							"on": "http://f7fae1e9-f90a-473a-a8b3-332d9b127d91"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6c64595a-f869-4173-a2db-4dd883466859",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3762,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://45a4c921-e859-4f2b-9f32-a5c34aaf338d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0042_021-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0042_021-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3762
+							},
+							"on": "http://6c64595a-f869-4173-a2db-4dd883466859"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b1456fd7-e395-484b-a3f2-378b92de048c",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3762,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8ad8a57f-aec3-4f5a-8b1a-05c355a07354",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0043_021-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0043_021-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3762
+							},
+							"on": "http://b1456fd7-e395-484b-a3f2-378b92de048c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://03e1f033-8684-4263-9018-e40adfcd4bb5",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3756,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://45666769-3c56-4f48-b2cc-d8ecd13d46ca",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0044_022-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0044_022-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3756
+							},
+							"on": "http://03e1f033-8684-4263-9018-e40adfcd4bb5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4a1559bd-ce6c-4391-82be-f2644985ff8d",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3753,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://81839d31-f24c-46d6-9795-6da2299c6854",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0045_022-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0045_022-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3753
+							},
+							"on": "http://4a1559bd-ce6c-4391-82be-f2644985ff8d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://751ca49c-1257-4363-a6de-fd1d2ee2480f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3765,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ab595db8-0488-4cb4-a797-95d3b0908f01",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0046_023-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0046_023-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3765
+							},
+							"on": "http://751ca49c-1257-4363-a6de-fd1d2ee2480f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d77c3b18-bd8d-4ac5-81f7-24fed510e8ae",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3750,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c95fc6d3-672d-4613-bcd1-7abe5bbcb0be",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0047_023-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0047_023-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3750
+							},
+							"on": "http://d77c3b18-bd8d-4ac5-81f7-24fed510e8ae"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://c6f2c129-e994-4bf9-b94b-8d650a84be27",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3768,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://38474df0-06a2-4ec5-ac6d-512126f6d333",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0048_024-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0048_024-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3768
+							},
+							"on": "http://c6f2c129-e994-4bf9-b94b-8d650a84be27"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8252c2f8-325d-4148-83b3-bd429bcdf6fe",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3728,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0969ab2c-523b-4770-aebf-b1015fd6d2ec",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0049_024-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0049_024-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3728
+							},
+							"on": "http://8252c2f8-325d-4148-83b3-bd429bcdf6fe"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4c65bd71-152c-4912-9a81-f4768e7373f5",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3790,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c105efa7-f9be-4084-ac29-cd0e1d733b11",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0050_025-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0050_025-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3790
+							},
+							"on": "http://4c65bd71-152c-4912-9a81-f4768e7373f5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://948db330-e2fc-4580-848f-e2955a42023e",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3723,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://03535221-a274-45c2-95c8-06552b9a726a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0051_025-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0051_025-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3723
+							},
+							"on": "http://948db330-e2fc-4580-848f-e2955a42023e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://bce56f8c-0d5e-4201-9444-ca8782fee479",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5171,
+					"width": 3795,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d9f3a453-e6f6-4d48-a84e-7d08d8e4ca71",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0052_026-r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0052_026-r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5171,
+								"width": 3795
+							},
+							"on": "http://bce56f8c-0d5e-4201-9444-ca8782fee479"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://37cf5028-e282-4b11-9e1c-12172e575a41",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5221,
+					"width": 3736,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4a13049e-b4c6-45d7-b063-f47c46dffddd",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0053_026-v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0053_026-v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5221,
+								"width": 3736
+							},
+							"on": "http://37cf5028-e282-4b11-9e1c-12172e575a41"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
