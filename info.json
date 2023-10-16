@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/image/2/context.json",
-  "@id" : "https://gabrieledettori.github.io/provaprova/info.json",
+  "@id" : "https://gabrieledettori.github.io/intervistepescatori/info.json",
   "protocol" : "http://iiif.io/api/image",
   "width" : 3428,
   "height" : 4986,
