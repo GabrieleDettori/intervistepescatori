@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 118,
+    "height" : 164
+  }, {
+    "width" : 235,
+    "height" : 327
+  }, {
+    "width" : 470,
+    "height" : 653
+  }, {
+    "width" : 939,
+    "height" : 1306
+  }, {
+    "width" : 1877,
+    "height" : 2611
+  }, {
+    "width" : 3753,
+    "height" : 5221
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3753,
+  "@id" : "https://gabrieledettori.github.io/intervistepescatori/images/Savi-ed-esecutori-alle-acque-filza-123_0024_012-r",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5221
+}
